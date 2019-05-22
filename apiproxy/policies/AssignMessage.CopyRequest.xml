@@ -2,7 +2,7 @@
 	<AssignTo createNew="true" type="request">flow.apigee.originalRequest</AssignTo>
 
 	<Copy source="request">
-		<Headers><Header name="test">testing</Header></Headers>
+		<Headers><Header name="test4">testing</Header></Headers>
 		<QueryParams/>
 		<FormParams/>
 		<Payload>false</Payload>
