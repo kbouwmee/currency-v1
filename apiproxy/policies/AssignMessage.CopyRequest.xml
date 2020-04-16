@@ -5,7 +5,7 @@
 		<Headers/>
 		<QueryParams/>
 		<FormParams/>
-		<Payload>false</Payload>
+		<Payload>true</Payload>
 		<Verb/>
 		<Version/>
 		<StatusCode/>
